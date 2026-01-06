@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://myeztrace.com/eztrace_logo.png" alt="EZ Trace Logo" width="400" style="background-color: white; padding: 20px; border-radius: 8px;" />
+  <img src="./screenshots/eztrace_logo.png" alt="EZ Trace Logo" width="400" style="background-color: white; padding: 20px; border-radius: 8px;" />
 </p>
 
 <h1 align="center">📦 EZ Trace</h1>
