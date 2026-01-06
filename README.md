@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://myeztrace.com/@eztrace_logo.png" alt="EZ Trace Logo" width="400" style="background-color: white; padding: 20px; border-radius: 8px;" />
+  <img src="https://myeztrace.com/eztrace_logo.png" alt="EZ Trace Logo" width="400" style="background-color: white; padding: 20px; border-radius: 8px;" />
 </p>
 
 <h1 align="center">📦 EZ Trace</h1>
@@ -42,6 +42,10 @@ Built for real-world distribution operations, the platform serves **10+ field op
 | Weekly Hours Saved        | 20+   |
 
 ### Platform Preview
+
+<p align="center">
+  <img src="./screenshots/dashboard_home_screen.png" alt="EZ Trace Dashboard" width="800" />
+</p>
 
 <p align="center">
   <em>Multi-location order management with real-time status tracking and automated inventory sync</em>
@@ -118,6 +122,14 @@ Built for real-world distribution operations, the platform serves **10+ field op
 - **SKU-Level Tracking**: Track inventory by flavor, size, and unit with real-time quantity updates
 - **Certificate Management**: Upload and manage product certificates with Supabase storage
 - **Multi-Brand Support**: Manage multiple brands and processors with complex relationships
+
+<p align="center">
+  <img src="./screenshots/update_inventory.png" alt="Inventory Management" width="800" />
+</p>
+
+<p align="center">
+  <em>SKU-level inventory tracking with detailed product management</em>
+</p>
 
 ### 👥 Multi-Role Team Management
 
